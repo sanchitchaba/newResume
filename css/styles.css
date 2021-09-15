@@ -1,0 +1,40 @@
+/* -----------TAG SELECTORS */
+body{
+  background-color: #FEFBF3;
+
+}
+
+hr{
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 0;
+  height: 1px;
+  width:10%;
+}
+
+h1 {
+  color: #2C2E43;
+}
+
+h3 {
+  color: #2C2E43;
+}
+
+/* -------------- CLASS SELECTORS */
+
+/*.formalPhoto{
+
+}*/
+
+.manaliPhoto{
+
+  width: 500px;
+  height: 550px;
+
+}
+
+/* -------------- ID SELECTORS */
+
+#heading{
+  color: #DA0037;
+}
